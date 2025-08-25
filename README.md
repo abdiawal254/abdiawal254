@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Government Efficiency platform<br>👯 I’m looking to collaborate on software testing and development<br>🤝 I’m looking for help with software issues and web & App development<br>🌱 I’m currently learning block chain technology and advancing in Vue.js and MEVN stack<br>💬 Ask me about anything but be it software & programming related<br>⚡ Fun fact Why do programmers hate nature?<br>     Too many bugs! 🐞😂
+🔭 I’m currently working on Government Efficiency platform<br>👯 I’m looking to collaborate on software testing and development<br>🤝 I’m looking for help with software issues and web & App development<br>🌱 I’m currently learning block chain technology and advancing in React and MERN stack<br>💬 Ask me about anything but be it software & programming related<br>⚡ Fun fact Why do programmers hate nature?<br>     Too many bugs! 🐞😂
 
 
 ## 🌐 Socials:
