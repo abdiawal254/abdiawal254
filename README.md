@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Marklewis%20Mutugi%20%7C%20Software%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Abdiawal%20Siad%20%7C%20Software%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Software+Engineer💻;Youtube😁+Tech💻+Educator🙈;Web+Developer+🌐;Open+Source+Contributor🤝;Full+Stack+MERN+Developer😁;Dart+with+flutter+Enthusiast🚀;AI+/+ML+Enthusiast" alt="Typing Animation"/>
@@ -13,17 +13,17 @@
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **[WellnessCheck App](https://github.com/lewiii254/akili-wellness-hub.git)**  
-- 🌐 Visit my **NEW Interactive Portfolio** 👉 **[✨ Interactive Portfolio ✨](https://lewiii254.github.io/lewiii254/)**  
+- 🔭 I’m currently working on **[Opentrust Global](https://opentrustglobal-frontend.onrender.com/)**  
+- 🌐 Visit my **NEW Interactive Portfolio** 👉 **[✨ Interactive Portfolio ✨](https://abdiawal254.github.io/javascript-portfolio/)**  
 - 🎮 **NEW Features**: Smooth routing, GitHub activity dashboard, and gamified achievements!  
 - 🌱 I’m learning **React.js, Next.js, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**  
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/LewiiiTheG)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ngondimarklewis@gmail.com)  
-- ⚡ Fun fact: I love **tech, football (Chelsea FC 💙), and coding challenges!**  
-- 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@code-with-lewii?si=pixWvaTSZqUJivGX)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdiawal-siad-924b99280/)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/A23935Aden)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adenabdiawal@gmail.com)  
+- ⚡ Fun fact: I love **tech, football (Manchester City FC 💙), and coding challenges!**  
+- 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://www.youtube.com/@Abdicagameyrane)  
 
 ---
 
@@ -36,7 +36,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -48,7 +47,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -73,8 +71,6 @@
 [![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 ---
 <div align="center">
@@ -82,23 +78,23 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lewiii254&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lewiii254&theme=radical&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdiawal254&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdiawal254&theme=radical&cache_seconds=86400" />
 <table>
 <tr>
 <td width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiii254&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdiawal254&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lewiii254&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdiawal254&theme=transparent" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lewiii254&theme=transparent&utc_offset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdiawal254&theme=transparent&utc_offset=5.5" />
 
 </td>
 </tr>
@@ -109,17 +105,17 @@
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lewiii254&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdiawal254&theme=radical&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
 ### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=lewiii254&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdiawal254&color=blue&style=flat)
 <a href="https://www.github.com/lewiii254" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![committers.top badge](https://user-badge.committers.top/kenya/lewiii254.svg)](https://user-badge.committers.top/kenya/lewiii254)
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/lewiii254&label=Stars&query=$.stars&color=brightgreen&logo=github)
+src="https://img.shields.io/github/followers/Abdiawal254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![committers.top badge](https://user-badge.committers.top/kenya/Abdiawal254.svg)](https://user-badge.committers.top/kenya/Abdiawal254)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Abdiawal254&label=Stars&query=$.stars&color=brightgreen&logo=github)
 
 </div>
 
@@ -138,13 +134,13 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 
 
 ### 📫 **Connect with Me**
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LewiiiTheG)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lewiii254)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lewiiii_thee_g/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254790767347)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/lewiiiTheeG)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@code-with-lewii?si=-ryAFFjy26FaUM6P)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/A23935Aden)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdiawal254)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awaldeeen/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254722129118)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/awale.aden.217654/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Abdicagameyrane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdiawal-siad-924b99280/)
 
 ---
 
@@ -152,7 +148,7 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 
 ### Feel free to leave your mark 😉 by clicking the button below and dropping a message! 💬
 
-[![Guestbook🧾🤗](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/lewiii254/lewiii254/discussions/1)
+[![Guestbook🧾🤗](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/Abdiawal254/Abdiawal254/discussions/1)
 
 ---
 ### ⭐ **Show some love by starring my repos!** 😊  
@@ -163,39 +159,39 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 ## 🛠️ Projects I'm Proud Of
 | Project            | Stack            | Live Demo                | Repo |
 |----------------|-----------------|---------------------|-------------------|
-| 🌿 AI Crop Doctor 🤖    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://shamba-smart-scan.vercel.app/) | [Repo](https://github.com/lewiii254/shamba-smart-scan.git) |
-| FARM-CONNECT.KE👩‍🌾🌱    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://farm-connect-market-wise.vercel.app/) | [Repo](https://github.com/lewiii254/farm-connect-market-wise.git) |
-| AkiliSpa Mental Health 🌐     | MERN Stack, AI Integration, M-Pesa API | [Live](https://akili-wellness-hub.vercel.app/) | [Repo](https://github.com/lewiii254/akili-wellness-hub.git) |
-| Kuza-Skills💻💸🚀 | MERN Stack, Next.js, Firebase Auth | [Live](https://digital-skill-stride.vercel.app/) | [Repo](https://github.com/lewiii254/digital-skill-stride.git) |
-| Kazi-Haven👩‍🏫🚀     | MERN Stack, Job Portal, Tailwind CSS | [Live](https://kazi-haven.vercel.app/) | [Repo](https://github.com/lewiii254/Kazi-Haven.git) |
-| College Marketplace 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://kuzamarket2.vercel.app/) | [Repo](https://github.com/lewiii254/uni-market-finds.git) |
-| 🚮Taka-Smart💚🌍 | MERN Stack, Next.js, Firebase Auth | [Live](https://taka-smart-rewards.vercel.app/) | [Repo](https://github.com/lewiii254/taka-smart-rewards.git) |
-| Tembea Afrika 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://tembea-africa.vercel.app/) | [Repo](https://github.com/lewiii254/safaricom-hook-final-project-and-deployment-week-8-lewiii254) |
+| 🌿 Opentrust Global 🤖    | React/ Express, AI, Tailwind CSS | [Live](https://opentrustglobal-frontend.onrender.com/) | [Repo](https://github.com/abdiawal254/Opentrustglobal.git) |
+| Compound Interest Calculator👩‍🌾🌱    | HTML, CSS & Javascript | [Live](https://abdiawal254.github.io/Compound-Interest-Calculator/) | [Repo](https://github.com/abdiawal254/Compound-Interest-Calculator.git) |
+| Nasteexo Coaching London UK 🌐     | MERN Stack, AI Integration, | [Live](https://nasteexocoaching.com/) | [Repo](https://github.com/abdiawal254/coach-nasteexo.git) |
+| GTTC Website💻💸🚀 | HTML, CSS , Javascript | [Live](https://abdiawal254.github.io/GTTC-website/) | [Repo](https://github.com/abdiawal254/GTTC-website.git) |
+| Age Checker👩‍🏫🚀     | HTML, CSS & Javascript| [Live](https://abdiawal254.github.io/Age-checker-js/) | [Repo](https://github.com/abdiawal254/Age-checker-js.git) |
+| BMI Calculator 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://abdiawal254.github.io/BMI-Calculator-js/) | [Repo](https://github.com/abdiawal254/BMI-Calculator-js.git) |
+| 🚮Dev Tracker💚🌍 | MERN Stack, Next.js, Firebase Auth | [Live](https://progress-tracker1.netlify.app/auth) | [Repo](https://github.com/abdiawal254/dev-tracker.git) |
+| Portfolio App 🗺️ | HTM, CSS & JAVASCRIPT | [Live](https://abdiawal254.github.io/javascript-portfolio/) | [Repo](https://github.com/abdiawal254/javascript-portfolio.git) |
 
 </div>
 
 ---
 
 ## 📈 GitHub Activity Graph💹  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lewiii254&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdiawal254&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 Slither Into My Code Kingdom😂
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdiawal254/Abdiawal254/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdiawal254/Abdiawal254/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lewiii254/Abdiawal254/output/github-snake.svg" />
 </picture>
 
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Abdiawal+Aden+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+Opentrust+Global+Platform+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p>
 
-[![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/lewiii254)
+[![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/Abdiawal254)
 <!---
 lewiii254/lewiii254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
