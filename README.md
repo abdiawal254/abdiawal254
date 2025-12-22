@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me  
 
 - 🔭 I’m currently working on **[Opentrust Global](https://opentrustglobal-frontend.onrender.com/)**  
-- 🌐 Visit my **NEW Interactive Portfolio** 👉 **[✨ Interactive Portfolio ✨]([https://abdiawal254.github.io/javascript-portfolio/](https://developer-portfolio-ckph.vercel.app/))**  
+- 🌐 Visit my **NEW Interactive Portfolio** 👉 **[✨ Interactive Portfolio ✨]([https://developer-portfolio-ckph.vercel.app/])**  
 - 🎮 **NEW Features**: Smooth routing, GitHub activity dashboard, and gamified achievements!  
 - 🌱 I’m learning **React.js, Next.js, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**  
