@@ -79,7 +79,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdiawal254&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdiawal254&theme=radical&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-streak-stats.vercel.com/?user=Abdiawal254&theme=radical&cache_seconds=86400" />
 <table>
 <tr>
 <td width="33%">
@@ -112,7 +112,7 @@
 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdiawal254&color=blue&style=flat)
-<a href="https://www.github.com/lewiii254" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/abdiawal254" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Abdiawal254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 [![committers.top badge](https://user-badge.committers.top/kenya/Abdiawal254.svg)](https://user-badge.committers.top/kenya/Abdiawal254)
 ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Abdiawal254&label=Stars&query=$.stars&color=brightgreen&logo=github)
@@ -188,7 +188,7 @@ src="https://img.shields.io/github/followers/Abdiawal254?logo=github&style=for-t
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Abdiawal+Aden+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+Opentrust+Global+Platform+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
+  <img src="https://readme-typing-svg.vercel.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Abdiawal+Aden+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+Opentrust+Global+Platform+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p>
 
 [![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/Abdiawal254)
